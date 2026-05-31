@@ -4,7 +4,9 @@ from pathlib import Path
 from typing import Any
 
 ROOT = Path(__file__).resolve().parents[2]
-DATA_DIR = ROOT / "data"
+LOCAL_DATA_DIR = ROOT / "data"
+DEPLOY_DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+DATA_DIR = LOCAL_DATA_DIR if LOCAL_DATA_DIR.exists() else DEPLOY_DATA_DIR
 
 # Map of data file names to their subdirectory paths
 DATA_FILE_PATHS = {
