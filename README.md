@@ -17,6 +17,7 @@ The project is structured as a practical MVP that can be extended into a product
 - [Tech Stack](#tech-stack)
 - [Local Setup](#local-setup)
 - [Environment Variables](#environment-variables)
+- [Deployment](#deployment)
 - [Workflow Process](#workflow-process)
 - [Quality Checks](#quality-checks)
 - [Future Roadmap](#future-roadmap)
@@ -322,6 +323,10 @@ Notes:
 - Clerk keys are optional for local demo access.
 - When both Clerk keys are set, the proxy protects non-public routes.
 - `/login` and `/sso-callback` remain public auth surfaces.
+
+## Deployment
+
+For production, deploy the frontend from `frontend/` on Vercel and the backend from `backend/` on Railway or Render. Set `NEXT_PUBLIC_API_BASE_URL` to the backend URL, set `NEXT_PUBLIC_APP_URL` to the Vercel URL, and include the Vercel origin in backend `CORS_ORIGINS`.
 
 ## Workflow Process
 
