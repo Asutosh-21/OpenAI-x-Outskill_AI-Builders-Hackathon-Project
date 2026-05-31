@@ -211,32 +211,6 @@ sequenceDiagram
   Query->>UI: Render cards, charts, tables, actions
 ```
 
-## Repository Structure
-
-```text
-ShelfSync AI Copilot/
-  backend/
-    agents/              Domain recommendation agents
-    api/                 FastAPI route definitions
-    schemas/             Pydantic request/response schemas
-    services/            Dashboard, alerts, and action orchestration
-    utils/               Data loading helpers
-    main.py              FastAPI application entrypoint
-    requirements.txt     Python dependencies
-    .env.example         Backend environment template
-
-  frontend/
-    app/                 Next.js App Router pages
-    components/          App shell, sidebar, auth, copilot, UI components
-    lib/                 API client, types, formatting helpers
-    proxy.ts             Clerk route protection proxy
-    package.json         Frontend scripts and dependencies
-    .env.example         Frontend environment template
-
-  data/                  Structured demo data used by backend agents
-  docs/                  Planning and architecture references
-  README.md              Main GitHub documentation
-```
 
 ## Tech Stack
 
