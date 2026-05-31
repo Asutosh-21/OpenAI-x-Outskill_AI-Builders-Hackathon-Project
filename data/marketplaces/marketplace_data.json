@@ -1,0 +1,17 @@
+{
+  "platforms": ["Blinkit", "Zepto", "Instamart"],
+  "cities": ["Delhi NCR", "Mumbai", "Bengaluru"],
+  "workflow": [
+    "Connect & ingest",
+    "Process & standardize",
+    "AI agents analysis",
+    "Decisions & actions",
+    "Execution layer",
+    "Monitor & learn"
+  ],
+  "signals": [
+    {"name": "Weather", "status": "mocked", "impact": "demand multiplier"},
+    {"name": "Local events", "status": "mocked", "impact": "demand spike detection"},
+    {"name": "Trends & social", "status": "mocked", "impact": "catalog and demand context"}
+  ]
+}

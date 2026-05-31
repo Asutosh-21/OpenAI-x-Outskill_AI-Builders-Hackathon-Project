@@ -1,0 +1,122 @@
+[
+  {
+    "campaign_id": "ADS-BLK-104",
+    "sku": "SYN-BUDS-MINI",
+    "platform": "Blinkit",
+    "channel": "Google Ads",
+    "campaign": "SparkBuds South Delhi Search Boost",
+    "daily_spend_inr": 12000,
+    "roas": 1.8,
+    "status": "active",
+    "clicks": 1840,
+    "conversions": 91
+  },
+  {
+    "campaign_id": "ADS-ZEP-208",
+    "sku": "SYN-BUDS-MINI",
+    "platform": "Zepto",
+    "channel": "Meta Ads",
+    "campaign": "SparkBuds Gurgaon Retargeting",
+    "daily_spend_inr": 5800,
+    "roas": 3.7,
+    "status": "active",
+    "clicks": 920,
+    "conversions": 74
+  },
+  {
+    "campaign_id": "ADS-INS-312",
+    "sku": "FMCG-PROTEIN-250",
+    "platform": "Instamart",
+    "channel": "Google Ads",
+    "campaign": "Protein Shake Fitness Week",
+    "daily_spend_inr": 8600,
+    "roas": 2.2,
+    "status": "active",
+    "clicks": 1120,
+    "conversions": 109
+  },
+  {
+    "campaign_id": "ADS-BLK-620",
+    "sku": "FMCG-PROTEIN-250",
+    "platform": "Blinkit",
+    "channel": "Google Ads",
+    "campaign": "Protein Shake Koramangala",
+    "daily_spend_inr": 4200,
+    "roas": 3.1,
+    "status": "active",
+    "clicks": 690,
+    "conversions": 68
+  },
+  {
+    "campaign_id": "ADS-ZEP-777",
+    "sku": "BEAUTY-SERUM-30",
+    "platform": "Zepto",
+    "channel": "Meta Ads",
+    "campaign": "GlowRush Creator Push",
+    "daily_spend_inr": 9400,
+    "roas": 1.6,
+    "status": "active",
+    "clicks": 1480,
+    "conversions": 58
+  },
+  {
+    "campaign_id": "ADS-BLK-455",
+    "sku": "HOME-CLEAN-1L",
+    "platform": "Blinkit",
+    "channel": "Meta Ads",
+    "campaign": "Home Care Weekend Basket",
+    "daily_spend_inr": 3200,
+    "roas": 4.5,
+    "status": "active",
+    "clicks": 540,
+    "conversions": 63
+  },
+  {
+    "campaign_id": "ADS-INS-890",
+    "sku": "SYN-BUDS-MINI",
+    "platform": "Instamart",
+    "channel": "Google Ads",
+    "campaign": "SparkBuds Mumbai Launch",
+    "daily_spend_inr": 7500,
+    "roas": 2.4,
+    "status": "active",
+    "clicks": 1250,
+    "conversions": 95
+  },
+  {
+    "campaign_id": "ADS-ZEP-445",
+    "sku": "FMCG-PROTEIN-250",
+    "platform": "Zepto",
+    "channel": "Meta Ads",
+    "campaign": "Protein Shake Marathon Season",
+    "daily_spend_inr": 6800,
+    "roas": 1.9,
+    "status": "active",
+    "clicks": 980,
+    "conversions": 72
+  },
+  {
+    "campaign_id": "ADS-BLK-332",
+    "sku": "BEAUTY-SERUM-30",
+    "platform": "Blinkit",
+    "channel": "Google Ads",
+    "campaign": "GlowRush Delhi Premium",
+    "daily_spend_inr": 5200,
+    "roas": 2.8,
+    "status": "active",
+    "clicks": 820,
+    "conversions": 88
+  },
+  {
+    "campaign_id": "ADS-INS-556",
+    "sku": "BEAUTY-SERUM-30",
+    "platform": "Instamart",
+    "channel": "Meta Ads",
+    "campaign": "GlowRush Skincare Week",
+    "daily_spend_inr": 4900,
+    "roas": 3.2,
+    "status": "active",
+    "clicks": 750,
+    "conversions": 92
+  }
+]

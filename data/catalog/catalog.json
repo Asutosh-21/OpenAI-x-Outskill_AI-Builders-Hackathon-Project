@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "SYN-BUDS-MINI",
+    "title": "SparkBuds Mini",
+    "category": "Consumer Electronics",
+    "features": ["compact true wireless earbuds", "24 hour battery case", "low-latency gaming mode", "USB-C fast charging"],
+    "specs": {"battery": "24h case", "charging": "USB-C", "color": "Graphite Black"}
+  },
+  {
+    "sku": "FMCG-PROTEIN-250",
+    "title": "NourishGo Protein Shake 250ml",
+    "category": "FMCG",
+    "features": ["18g protein", "ready to drink", "no added sugar", "chilled delivery ready"],
+    "specs": {"pack": "250ml", "flavour": "Chocolate", "protein": "18g"}
+  },
+  {
+    "sku": "BEAUTY-SERUM-30",
+    "title": "GlowRush Vitamin C Serum",
+    "category": "Beauty",
+    "features": ["brightening serum", "non-sticky finish", "daily skincare", "travel friendly 30ml bottle"],
+    "specs": {"volume": "30ml", "skin_type": "All skin types", "hero": "Vitamin C"}
+  },
+  {
+    "sku": "FOOD-MILK-AMUL-1L",
+    "title": "Amul Taaza Toned Milk 1L",
+    "category": "Dairy",
+    "features": ["fresh toned milk", "1 litre family pack", "daily breakfast essential", "chilled quick delivery"],
+    "specs": {"pack": "1L", "brand": "Amul", "storage": "Keep refrigerated"}
+  },
+  {
+    "sku": "FOOD-BREAD-BRITANNIA-400G",
+    "title": "Britannia Whole Wheat Bread 400g",
+    "category": "Bakery",
+    "features": ["soft whole wheat slices", "400g daily pack", "breakfast and sandwich ready", "fresh bakery delivery"],
+    "specs": {"pack": "400g", "brand": "Britannia", "type": "Whole wheat"}
+  },
+  {
+    "sku": "SNACK-LAYS-CHIPS-52G",
+    "title": "Lay's Classic Salted Chips 52g",
+    "category": "Snacks",
+    "features": ["classic salted potato chips", "crisp snack pack", "party and movie ready", "instant craving delivery"],
+    "specs": {"pack": "52g", "brand": "Lay's", "flavour": "Classic Salted"}
+  },
+  {
+    "sku": "BEVERAGE-COKE-750ML",
+    "title": "Coca-Cola Soft Drink 750ml",
+    "category": "Beverages",
+    "features": ["chilled cola bottle", "750ml sharing pack", "meal pairing ready", "fast cold delivery"],
+    "specs": {"pack": "750ml", "brand": "Coca-Cola", "serve": "Best served chilled"}
+  },
+  {
+    "sku": "BABY-DIAPER-PAMPERS-M-20",
+    "title": "Pampers Baby Dry Pants Medium 20 Count",
+    "category": "Baby Care",
+    "features": ["medium baby diaper pants", "overnight dryness", "20 count value pack", "urgent parenting essential"],
+    "specs": {"pack": "20 count", "brand": "Pampers", "size": "Medium"}
+  }
+]
